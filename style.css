@@ -1,1 +1,12 @@
+.driver{
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 40%;
+    margin: 10px;
+    display: inline-block;
+    background-color: antiquewhite;
+}
 
+body{
+    background-color: rgb(186, 235, 218);
+}
